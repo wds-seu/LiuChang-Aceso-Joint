@@ -1,0 +1,28 @@
+[
+    {
+        "0": "/I/cont_category/control",
+        "1": "/I/drug_name/drug",
+        "2": "/I/edu_category/educational",
+        "3": "/I/phys_category/physical",
+        "4": "/I/surg_category/surgical",
+        "5": "/O/adv_effect/adverseEffects",
+        "6": "/O/ment_outcome/mental",
+        "7": "/O/mort_outcome/mortality",
+        "8": "/O/pain_outcome/pain",
+        "9": "/O/phys_outcome/physical",
+        "10": "/P/cond/condition"
+    },
+    {
+        "/I/cont_category/control": 0,
+        "/I/drug_name/drug": 1,
+        "/I/edu_category/educational": 2,
+        "/I/phys_category/physical": 3,
+        "/I/surg_category/surgical": 4,
+        "/O/adv_effect/adverseEffects": 5,
+        "/O/ment_outcome/mental": 6,
+        "/O/mort_outcome/mortality": 7,
+        "/O/pain_outcome/pain": 8,
+        "/O/phys_outcome/physical": 9,
+        "/P/cond/condition": 10
+    }
+]
