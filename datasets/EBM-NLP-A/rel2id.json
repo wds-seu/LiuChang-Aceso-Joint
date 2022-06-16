@@ -1,0 +1,16 @@
+[
+    {
+        "0": "/I/other_category/other",
+        "1": "/O/other_outcome/other",
+        "2": "/P/age_value/age",
+        "3": "/P/sex_value/sex",
+        "4": "/P/size_value/sampleSize"
+    },
+    {
+        "/I/other_category/other": 0,
+        "/O/other_outcome/other": 1,
+        "/P/age_value/age": 2,
+        "/P/sex_value/sex": 3,
+        "/P/size_value/sampleSize": 4
+    }
+]
